@@ -10,9 +10,25 @@ _Assisted by Talha Saleem and Umair Shahid_
 
 #### Day 1
 
-1. Installation and setup (flutter, vs code, scrcpy)
+  0. Abdur Rehman GDSC Intro  (15 mins)
 
-2. Hierarchy all the way from the top to the Build function
+  1. Installation and setup (flutter, vs code, scrcpy) (15 mins)
+
+  2. Container Widgets Playground ( minutes)
+  
+  3. Hierarchy all the way from the top to the Build function (10 mins)
+  
+  4. Figma bit
+ 
+  5. Dart Basics 
+
+###Day 2
+
+1. Dart basics
+
+2. 
+
+
 
 Concept: Set a foundation to understand state and what is happening when their code runs
 
@@ -28,17 +44,20 @@ Concept: be able to "draw" on the canvas
 
 Concept: start being able to mock Figma etc. designs
 
-5. Textfield, validation and controllers very shortly
-
 6. Shapes, button colors, splash/material rendering, CropRRect
 
 Concept: understand flutter pain points they may get stuck on later and good documentation is not available
+
+Importing Images 
 
 7. Make a list of things they don't understand for personal exploration
 
 Concept: try to make them think critically about what and where they'll need to seek help, and see patterns of how they seek for help, e.g. drawer animation
 
-8. Flutter sliverappbar widget of the week video
+###Day 3
+
+
+8. CodeLab package 
 
 Concept: expose them to a brilliant self-help and discovery resource. see how intimidated they are of what they don't know, and how willing they are to get their hands dirty and experiment even when confused. encourage getting hands dirty.
 
@@ -46,15 +65,26 @@ Concept: expose them to a brilliant self-help and discovery resource. see how in
 
 Concept: be able to open or close pages. read for foundation by self, provided resources.
 
-10. q/a
+10. Scoreboard Screen
 
-#### Day 2
 
--Q/A-
-1. const, state, stateless, method functions, performance measuring
-2. setstate, build tic tac toe with it
-3. teach provider, rewrite parts of tic tac toe. remeasure performance
-4. shared preferences (introduce, emphasize Hive, Sqflite for self learning)
-5. api integration, use template apis (introduce aws lambda for self learning)
-6. introduce my project pointr, instigate problem solving thoughts
-7. q/a
+Day 4
+
+1. Firebase intro
+
+2. Installation
+
+3. Basic connection with DB
+
+
+Day 5 
+
+1. Retrieving data from DB
+
+2. Connecting it with existing code
+
+Day 6 
+
+1. Making create calls to firestore
+
+2. Completing the app with backend
