@@ -10,17 +10,18 @@ _Assisted by Talha Saleem and Umair Shahid_
 
 #### Day 1
 
-  0. Abdur Rehman GDSC Intro  (15 mins)
-
-  1. Installation and setup (flutter, vs code, scrcpy) (15 mins)
-
-  2. Container Widgets Playground ( minutes)
-  
-  3. Hierarchy all the way from the top to the Build function (10 mins)
-  
-  4. Figma bit
- 
-  5. Dart Basics 
+- [x] Introductions
+- [ ] Flutter Installation
+- [x] Create a Template app
+- [x] Everything is a Widget
+- [x] Changing widgets
+- [x] Stateful/Stateless
+- [x] packages, import
+- [x] IDE IntelliSense (pressing ctrl+Space)
+- [x] Flutter/dart hierarchy of code
+- [x] Flutter hierarchy of folders
+- [ ] Figma basic
+- [ ] Build function, why stateful widget has two classes
 
 ###Day 2
 
