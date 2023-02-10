@@ -4,8 +4,6 @@
 
 _Muhammad Sohaib Baig with Ibrahim Ahmed Khan_
 
-_Assisted by Talha Saleem and Umair Shahid_
-
 ### Guide Rough Draft
 
 #### Day 1
