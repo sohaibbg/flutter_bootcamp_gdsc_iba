@@ -23,7 +23,7 @@ _Assisted by Talha Saleem and Umair Shahid_
 - [ ] Figma basic
 - [ ] Build function, why stateful widget has two classes
 
-###Day 2
+### Day 2
 
 1. Dart basics
 
@@ -55,7 +55,7 @@ Importing Images
 
 Concept: try to make them think critically about what and where they'll need to seek help, and see patterns of how they seek for help, e.g. drawer animation
 
-###Day 3
+### Day 3
 
 
 8. CodeLab package 
