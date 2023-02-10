@@ -21,6 +21,10 @@ _Muhammad Sohaib Baig with Ibrahim Ahmed Khan_
 - [ ] Figma basic
 - [ ] Build function, why stateful widget has two classes
 
+Assignment:
+
+Finish installation
+
 ### Day 2
 
 - [x] Dart basics -> final, const, Stateless, Stateful, setState
@@ -36,6 +40,12 @@ _Muhammad Sohaib Baig with Ibrahim Ahmed Khan_
 - [x] pubspec.yaml -> Importing Images
 - [x] Scaffold, bnavbar, hamburger menu, appbar
 - [x] Shapes, button colors, splash/material rendering, CropRRect
+
+Assignment:
+
+1. Make a screen with brown button, imported image inside and 25 radius
+2. Read the typography blog[https://medium.com/flutter/playful-typography-with-flutter-f030385058b4]
+3. Read the material blog[https://medium.com/flutter/material-3-for-flutter-d417a8a65564]
 
 ### Day 3
 
