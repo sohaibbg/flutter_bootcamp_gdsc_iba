@@ -28,14 +28,14 @@ Finish installation
 ### Day 2
 
 - [x] Dart basics -> final, const, Stateless, Stateful, setState
-- [x] Widget UI Layout Process ->
-	Widget tree https://docs.flutter.dev/development/ui/layout
-	User input or animation triggers build
-	Fixed constraints then flex
-	flex concept
-	constraint management beginning from Scaffold body
-	Flex Widget; Column, Row
-	Using Expanded, Flexible
+- [x] Widget UI Layout Process -> 
+	1. Widget tree https://docs.flutter.dev/development/ui/layout
+	2. User input or animation triggers build
+	3. Fixed constraints then flex
+	4. flex concept
+	5. constraint management beginning from Scaffold body
+	6. Flex Widget; Column, Row
+	7. Using Expanded, Flexible
 - [x] Layout Widgets (column, row, gridview, listview, wrap)
 - [x] pubspec.yaml -> Importing Images
 - [x] Scaffold, bnavbar, hamburger menu, appbar
