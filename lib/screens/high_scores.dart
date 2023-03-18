@@ -23,10 +23,10 @@ class HighScores extends StatelessWidget {
             onPressed: () {
               Navigator.of(context).pop();
             },
-            child: Text("Go back"),
-            style: ButtonStyle(
+            style: const ButtonStyle(
               foregroundColor: MaterialStatePropertyAll(Colors.white),
             ),
+            child: const Text("Go back"),
           )
         ],
       ),

@@ -56,28 +56,26 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
           Text(
             '$_counter',
-            style: Theme.of(context).textTheme.headline4,
+            style: Theme.of(context).textTheme.headlineMedium,
           ),
           ElevatedButton(
-            onPressed: () {
-              print("pokemon");
-              setState(() {
-                if (bgColor == Colors.black)
-                  bgColor = Colors.brown;
-                else
-                  bgColor = Colors.black;
-              });
-            },
-            child: Image.asset("assets/pikachu.webp"),
+            onPressed: () => setState(() {
+              if (bgColor == Colors.black) {
+                bgColor = Colors.brown;
+              } else {
+                bgColor = Colors.black;
+              }
+            }),
             style: ButtonStyle(
               backgroundColor: MaterialStatePropertyAll(bgColor),
               shape: MaterialStateProperty.all<RoundedRectangleBorder>(
                 RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(25),
-                  side: BorderSide(color: Colors.blue),
+                  side: const BorderSide(color: Colors.blue),
                 ),
               ),
             ),
+            child: Image.asset("assets/pikachu.webp"),
           ),
         ],
       ),
